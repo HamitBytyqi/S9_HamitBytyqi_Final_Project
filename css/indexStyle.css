@@ -833,5 +833,9 @@ ul li a:hover{
 
              width: 80%;
             }
+
+            .tekst-paragraph{
+                display: none;
+            }
         }
 
